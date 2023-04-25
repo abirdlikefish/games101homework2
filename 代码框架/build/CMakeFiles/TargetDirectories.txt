@@ -1,0 +1,3 @@
+/home/abirdlikefish/Desktop/homework/Homework2/代码框架/build/CMakeFiles/rebuild_cache.dir
+/home/abirdlikefish/Desktop/homework/Homework2/代码框架/build/CMakeFiles/edit_cache.dir
+/home/abirdlikefish/Desktop/homework/Homework2/代码框架/build/CMakeFiles/Rasterizer.dir
